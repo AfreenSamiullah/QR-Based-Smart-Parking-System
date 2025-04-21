@@ -1,6 +1,3 @@
-# QR-Based-Smart-Parking-System
-An automated parking management system using IR sensors to trigger dynamic QR code generation (Python), LoRa-enabled communication between Arduino and ESP32-CAM for QR decoding/validation, and servo-actuated parking slots that open/close based on entry-exit scans, optimizing space utilization through real-time slot tracking.
-
 # Vision-Based Intelligent Waste Segregator
 
 An automated waste management system that uses computer vision and deep learning to identify and sort waste items into organic, metal, or plastic categories, integrating real-time hardware control for efficient and contactless segregation.
